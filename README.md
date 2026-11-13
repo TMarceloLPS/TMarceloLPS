@@ -1,12 +1,37 @@
-- 👋 Hi, I’m @TMarceloLPS
-- 👀 I’m interested in Machine Learning, Java, Data Science, Quantumm Computer...
-- 🌱 I’m currently learning Java and  JavaScript 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me marcelo.tadeu.lps@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I Like Knowledge in general 
+# Olá, eu sou o Marcelo 👋
 
-<!---
-TMarceloLPS/TMarceloLPS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Estudante de **Engenharia de Computação** focado em desenvolvimento **Back-end**, arquitetura de APIs e construção de sistemas práticos que resolvem problemas reais de ponta a ponta.
+
+Minha trajetória combina a base analítica da computação (com passagem pela UFRN e retomada da graduação) com vivência operacional de alta exigência na área aeronáutica — trazendo disciplina rigorosa, raciocínio rápido sob pressão e foco em confiabilidade de software.
+
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+* **Back-end & Linguagens:** Python (FastAPI), JavaScript, C/C++ (base), REST APIs
+* **Bancos de Dados:** SQL, PostgreSQL, SQLite
+* **Infraestrutura & DevOps:** Docker, Linux, Git, GitHub
+* **Front-end & Hardware:** HTML5, Tailwind CSS, integração com microcontroladores (ESP32)
+
+---
+
+### 🎯 Foco Atual
+
+* Desenvolvimento de aplicações web multi-usuário com autenticação e persistência relacional
+* Aprofundamento em estruturas de dados, arquitetura limpa e boas práticas de engenharia de software
+* Integração de sistemas e automação de fluxos operacionais
+
+---
+
+### 🚀 Projetos em Destaque
+
+* **[CRM Kanban Multi-usuário](#)** — Sistema web completo para gestão comercial de clientes com funil personalizável, isolamento de dados por usuário e integração direta com WhatsApp. *(Em desenvolvimento)*
+* **[Sistema de Gestão / PDV Web](#)** — Aplicação back-end e interface web para controle operacional, vendas e banco de dados relacional.
+* **[Monitoramento e Automação IoT](#)** — Integração entre hardware (ESP32) e servidor web para leitura e controle em tempo real.
+
+---
+
+### 📫 Onde me encontrar
+
+* **LinkedIn:** (https://www.linkedin.com/in/marcelo-tadeu-lopes-13b54433b/)
+* **E-mail:** marcelo.tadeu.lps@gmail.com
